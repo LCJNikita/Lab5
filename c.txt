@@ -1,0 +1,6 @@
+remove_by_id 0
+show
+help
+execute_script c.txt
+execute_script cc.txt
+add {"name":"bc","total_box_office":300, "oscars_count":3}

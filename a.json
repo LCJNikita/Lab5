@@ -1,0 +1,5 @@
+{"name": "a", "coordinates": {"x": 5,"y": 5.0}, "creation_date": "2020-03-13", "oscars_count": 2, "total_box_office": 10,"genre": "action", "mpaa_rating": "PG", "screenwriter": {"name": "Oleg", "height": 150, "weight":  20.5}}
+{"name": "b", "coordinates": {"x": 5,"y": 5.0}, "creation_date": "2020-03-13", "oscars_count": 3, "total_box_office": 10,"mpaa_rating": "PG", "screenwriter": {"name": "Oleg", "height": 150, "weight":  20.5}}
+{"name": "c", "coordinates": {"x": 5,"y": 5.0}, "creation_date": "2020-03-13", "oscars_count": 5, "total_box_office": 10, "screenwriter": {"name": "Oleg", "height": 150, "weight":  20.5}}
+{"name": "ca", "coordinates": {"x": 5,"y": 5.0}, "creation_date": "2020-03-13", "oscars_count": 5, "total_box_office": 10, "screenwriter": {"name": "Oleg", "height": 150, "weight":  20.5}}
+{"name": "d", "coordinates": {"x": 5,"y": 5.0}, "creation_date": "2020-03-13", "oscars_count": 5, "total_box_office": 10, "screenwriter": {"name": "Oleg", "height": 150, "weight":  20.5}}
