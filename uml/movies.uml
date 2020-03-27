@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>movies</OriginalElement>
+  <nodes>
+    <node x="389.0" y="0.0">movies.Movie</node>
+    <node x="417.0" y="788.0">movies.UserHandler</node>
+    <node x="0.0" y="887.0">movies.commands</node>
+    <node x="0.0" y="0.0">movies.MovieTreeSet</node>
+    <node x="0.0" y="559.0">movies.Person</node>
+    <node x="606.0" y="788.0">movies.MovieCreationException</node>
+    <node x="571.0" y="559.0">movies.MovieGenre</node>
+    <node x="0.0" y="788.0">movies.CommandParser</node>
+    <node x="668.0" y="0.0">movies.Coordinates</node>
+    <node x="222.0" y="788.0">movies.Main</node>
+    <node x="307.0" y="559.0">movies.MpaaRating</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.6" x="913.3333333333334" y="538.3333333333334" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
